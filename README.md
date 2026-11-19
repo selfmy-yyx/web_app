@@ -80,7 +80,7 @@ $env:PANEL_DB_PATH = 'backend/panel.sqlite3'
 | GET | `/api/v1/discussions/{id}` | 获取快照及事件游标 |
 | GET | `/api/v1/discussions/{id}/events?after={cursor}` | SSE 回放和续接 |
 
-完整请求、错误响应与事件类型见 [API 契约](开发文档/api.md)。需求和数据关系见 [PRD](开发文档/prd.md) 与 [Mermaid ER 图](开发文档/schema.md)。
+HTTP 请求参数与响应模型可在后端启动后通过 [Swagger UI](http://127.0.0.1:8000/docs) 查看。[API 契约](开发文档/api.md)记录首版核心接口及 SSE 事件范围。需求和数据关系见 [PRD](开发文档/prd.md) 与 [Mermaid ER 图](开发文档/schema.md)。
 
 ## 验证
 
