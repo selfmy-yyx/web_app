@@ -1,0 +1,9 @@
+{
+  "name": "ai-panel-studio",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "tsc --noEmit && vite build", "preview": "vite preview", "test:e2e": "npm run build && node --test e2e/discussion.test.mjs" },
+  "dependencies": { "react": "^19.0.0", "react-dom": "^19.0.0" },
+  "devDependencies": { "@types/react": "^19.0.0", "@types/react-dom": "^19.0.0", "playwright-core": "1.59.1", "typescript": "^5.7.0", "vite": "^7.0.0" }
+}
