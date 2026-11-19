@@ -113,5 +113,5 @@ Windows 环境若缺少 Playwright 下载的 Chromium，可将 `PANEL_E2E_CHROMI
 
 - 已实现阵容确认和重试、按讨论上下文调度、公开专家状态、正式实录、讨论中观点更新、自然语言总结、并行场次隔离和断线续接。
 - 后续可增加真实模型的质量评测、持续 TCP 长连接验收，以及支持多 worker 的持久化任务协调。
-- 开发材料见 [原始 Prompt](开发文档/prompts.md) 与 [工作流说明](开发文档/workflow.md)。
+- 开发材料见 [原始 Prompt](开发总结/prompts.md) 与 [工作流说明](开发总结/workflow.md)。
 - 提交附件、仓库邀请和验收结果见 [提交核对表](docs/delivery.md)。

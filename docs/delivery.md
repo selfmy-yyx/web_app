@@ -4,8 +4,8 @@
 | --- | --- |
 | 运行说明 | [README](../README.md) |
 | 开发文档 | [PRD](../开发文档/prd.md)、[Mermaid ER 图](../开发文档/schema.md)、[API 与 SSE 契约](../开发文档/api.md) |
-| 原始 Prompt | [五段 Prompt](../开发文档/prompts.md)，覆盖 SDD、DDD、TDD 和 E2E |
-| 开发工作流 | [工作流说明](../开发文档/workflow.md)，记录开发步骤和已确认的工具 |
+| 原始 Prompt | [五段 Prompt](../开发总结/prompts.md)，覆盖 SDD、DDD、TDD 和 E2E |
+| 开发工作流 | [工作流说明](../开发总结/workflow.md)，记录开发步骤和已确认的工具 |
 | 源码、数据库和测试 | 前后端源码、[初始化 SQL](../db/init.sql)、[五条样例](../db/samples.json)、[导入脚本](../db/seed.py)、后端测试与 Playwright 用例 |
 | Git 历史与授权 | 核对 GitHub 或 Gitee 的仓库链接、阶段提交历史和收件人访问权限 |
 
