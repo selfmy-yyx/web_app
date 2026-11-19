@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "hybrid-work",
+    "topic": "混合办公团队应统一固定到岗日，还是由小组自主协调？",
+    "participants": [
+      {"role":"host","name":"林晓","title":"组织议题主持人","stance":"以协作质量、个人成本和可执行性为共同评价标准","color":"#8B5E25"},
+      {"role":"expert","name":"顾言","title":"组织行为研究员","stance":"支持每周统一一天，优先保障新人获得反馈和弱连接的形成","color":"#247A68"},
+      {"role":"expert","name":"魏岚","title":"分布式工程团队负责人","stance":"支持小组自治，异步文档和交付约定比统一签到更重要","color":"#375DA4"},
+      {"role":"expert","name":"许宁","title":"劳动与照护政策研究者","stance":"主张可申请弹性安排，避免刚性到岗规则扩大照护者与通勤者的负担","color":"#A74C54"},
+      {"role":"expert","name":"周蔓","title":"办公空间运营经理","stance":"支持错峰共享到岗日，用工位利用率和高峰拥挤数据调整计划","color":"#724591"}
+    ]
+  },
+  {
+    "slug": "night-bus",
+    "topic": "预算有限的城市应优先增开夜间公交，还是补贴夜间预约出行？",
+    "participants": [
+      {"role":"host","name":"唐昕","title":"城市政策主持人","stance":"引导比较覆盖、公平、等待时间和可持续运营成本","color":"#8B5E25"},
+      {"role":"expert","name":"赵之衡","title":"公交线网规划师","stance":"支持在医院和工业园之间增开少量固定干线，保证到站时间可预期","color":"#247A68"},
+      {"role":"expert","name":"钱舒","title":"交通需求建模师","stance":"支持对低密度区域使用预约车辆，按分时热区优化接驳","color":"#375DA4"},
+      {"role":"expert","name":"李珊","title":"夜班护理人员代表","stance":"主张以实际下班时段和站点步行安全为前提，保证服务不会临时取消","color":"#A74C54"},
+      {"role":"expert","name":"韩拓","title":"公共财政绩效分析员","stance":"要求比较每新增一趟有效出行的补贴成本，并设置试点退出条件","color":"#724591"}
+    ]
+  },
+  {
+    "slug": "school-ai-feedback",
+    "topic": "中学作文作业是否应允许学生使用生成式 AI 获取初稿反馈？",
+    "participants": [
+      {"role":"host","name":"季然","title":"教育圆桌主持人","stance":"区分反馈、代写和教师评价，聚焦学生可验证的学习收益","color":"#8B5E25"},
+      {"role":"expert","name":"白芸","title":"中学语文教研员","stance":"仅允许提出结构问题和证据提示，保留学生原稿与修改说明","color":"#247A68"},
+      {"role":"expert","name":"陈一帆","title":"学习科学研究员","stance":"支持有脚手架的个性化反馈，用迁移写作任务衡量独立能力","color":"#375DA4"},
+      {"role":"expert","name":"黄思","title":"校园数据治理专员","stance":"主张先落实校内账号与去标识化，限制上传可识别的学生文本","color":"#A74C54"},
+      {"role":"expert","name":"孟航","title":"学生无障碍支持教师","stance":"支持为需要语言辅助的学生提供选项，同时为设备不足者提供等价渠道","color":"#724591"}
+    ]
+  },
+  {
+    "slug": "food-waste",
+    "topic": "社区超市减少临期食品浪费，应优先动态折扣还是建立捐赠机制？",
+    "participants": [
+      {"role":"host","name":"沈郁","title":"社区商业议题主持人","stance":"分别比较减废量、受益人覆盖、交接成本和运营稳定性","color":"#8B5E25"},
+      {"role":"expert","name":"程瑶","title":"生鲜门店运营主管","stance":"倾向动态折扣，通过库存和剩余保质期制定分层价格","color":"#247A68"},
+      {"role":"expert","name":"梁雯","title":"社区食物银行协调员","stance":"支持提前预留稳定可预测的捐赠量，便于安排运输和分发","color":"#375DA4"},
+      {"role":"expert","name":"钟越","title":"冷链质量工程师","stance":"坚持按食品类别设交接条件，不能追踪温度与批次的商品不流转","color":"#A74C54"},
+      {"role":"expert","name":"罗清","title":"零售消费者研究员","stance":"关注折扣标签理解和领取体验，建议评估两种模式各自覆盖的群体","color":"#724591"}
+    ]
+  },
+  {
+    "slug": "library-space",
+    "topic": "公共图书馆有限空间应优先保留静音自习，还是增加社区协作空间？",
+    "participants": [
+      {"role":"host","name":"叶晨","title":"公共服务协商主持人","stance":"明确不同人群的使用时段、替代空间和公平性边界","color":"#8B5E25"},
+      {"role":"expert","name":"方禾","title":"图书馆读者服务主管","stance":"保留足量静音自习席，优先满足附近缺少安静学习空间的人群","color":"#247A68"},
+      {"role":"expert","name":"吴彦","title":"社区文化活动策划人","stance":"扩大可预约协作空间，支持读书会、创客项目和公共工作坊","color":"#375DA4"},
+      {"role":"expert","name":"曹璘","title":"建筑声学设计师","stance":"采用可逆分区与隔声测试，先验证相邻空间在高峰期能否共存","color":"#A74C54"},
+      {"role":"expert","name":"杜青","title":"公共服务数据分析师","stance":"用预约失败率、实际到场率和读者投诉确定不同时段的资源配比","color":"#724591"}
+    ]
+  }
+]
